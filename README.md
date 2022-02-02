@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Akash Patel</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashpatelknit&label=Profile%20views&color=0e75b6&style=flat" alt="akashpatelknit" /> </p>
 
