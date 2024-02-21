@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a pre-final year student at Kamla Nehru Institute of Technology, Sultanpur, pursuing a Bachelor of Technology, in information technology. <br><br>I am interested in full-stack development learning new programming Languages and seeking exciting related opportunities. <br>Feel free to go through my profile and approach me if you need any help, I will be glad to help you.
+I am currently a final year student at Kamla Nehru Institute of Technology, Sultanpur, pursuing a Bachelor of Technology, in information technology. <br><br>I am interested in full-stack development learning new programming Languages and seeking exciting related opportunities. <br>Feel free to go through my profile and approach me if you need any help, I will be glad to help you.
 
 
 ## 🌐 Socials:
